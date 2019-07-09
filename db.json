@@ -4,25 +4,25 @@
     "model":"911",
     "description":"fast car",
     "cost":"£95,000",
-    "imageFile":"porsche1.jpg"}
+    "imageFile":"porsche1.jpg"},
     
     {"make":"Porsche",
     "model":"Cayenne",
     "description":"fast car",
     "cost":"£195,000",
-    "imageFile":"porsche2.jpg"}
+    "imageFile":"porsche2.jpg"},
     
     {"make":"Porsche",
     "model":"Boxster",
     "description":"fast car",
     "cost":"£395,000",
-    "imageFile":"porsche3.jpg"}
+    "imageFile":"porsche3.jpg"},
     
     {"make":"Porsche",
     "model":"GT",
     "description":"fast car",
     "cost":"£495,000",
-    "imageFile":"porsche4.jpg"}
+    "imageFile":"porsche4.jpg"},
     
     {"make":"Porsche",
     "model":"928",
