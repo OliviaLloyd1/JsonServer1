@@ -1,33 +1,13 @@
+
 {
   "cars":[
-    {"make":"Porsche",
-    "model":"911",
-    "description":"fast car",
-    "cost":"£95,000",
-    "imageFile":"porsche1.jpg"},
     
-    {"make":"Porsche",
-    "model":"Cayenne",
-    "description":"fast car",
-    "cost":"£195,000",
-    "imageFile":"porsche2.jpg"},
+    {"make":"Porsche","model":"911","description":"A fast car","cost":"95,000","imageFile":"porsche1.jpg"},
+    {"make":"Porsche","model":"Cayenne","description":"A really fast car","cost":"105,000","imageFile":"porsche2.jpg"},
+    {"make":"Porsche","model":"Boxtser","description":"A very fast car","cost":"65,000","imageFile":"porsche3.jpg"},
+    {"make":"Porsche","model":"GT","description":"An extremely fast car","cost":"595,000","imageFile":"porsche4.jpg"},
+    {"make":"Porsche","model":"928","description":"The fastest car","cost":"295,000","imageFile":"porsche5.jpg"}
     
-    {"make":"Porsche",
-    "model":"Boxster",
-    "description":"fast car",
-    "cost":"£395,000",
-    "imageFile":"porsche3.jpg"},
-    
-    {"make":"Porsche",
-    "model":"GT",
-    "description":"fast car",
-    "cost":"£495,000",
-    "imageFile":"porsche4.jpg"},
-    
-    {"make":"Porsche",
-    "model":"928",
-    "description":"fast car",
-    "cost":"£595,000",
-    "imageFile":"porsche5.jpg"}
   ]
+
 }
